@@ -59,7 +59,7 @@ no (more) answers
 ?- halt.
 ```
 
-Note: the REPL halt tarnishes your `tty`. To reset:
+Note: the REPL `halt` tarnishes your `tty`. To reset:
 
 ```
 $ stty sane ^J
