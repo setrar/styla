@@ -2,7 +2,7 @@
 
 ## [Where does it start?](./init)
 
-This project is a hack, I just wanted to learn `Logic Programming on Scala` and found [Tarrau](http://www.cse.unt.edu/~tarau/)'s code. I just gave it a ride.
+This project is a hack, I just wanted to learn `Logic Programming on Scala` and found [Tarrau](http://www.cse.unt.edu/~tarau/)'s code. I gave it a ride.
 
 ## [Is the code running?](./styla)
 
