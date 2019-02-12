@@ -1,4 +1,4 @@
 # styla
 
 
-![alt tag](./init)
+![alt tag](./init/README.md)
